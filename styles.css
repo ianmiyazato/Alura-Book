@@ -1,6 +1,9 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodapé.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -10,6 +13,9 @@
     --fonte-principal: "Poppins";
     --azul: #002F52;
     --preto: rgba(0, 0, 0, 0.85);
+    --fonte-secundaria: "Josefin Sans";
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body {
