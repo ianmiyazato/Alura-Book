@@ -141,5 +141,6 @@
 
     .botões__ancora:hover {
         font-size: 18px;
+        text-decoration: underline;
     }
 }
